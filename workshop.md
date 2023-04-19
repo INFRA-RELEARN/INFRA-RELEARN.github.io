@@ -4,7 +4,6 @@
 [Home](index.md) > Workshop
 
 ## Agenda
----
 - 10:00 Welcome (Daniel Straub)
 - 10:05-10:30 Presentation Kostas Papakonstantinou
 - 10:35-11:00 Presentation Olga Fink
@@ -16,3 +15,5 @@
 - 16:00-16:15 Poll on the most interesting / relevant research question
 - 16:15-16:45 Discussion “What are the key research questions?” 
 - 16:45-17:00 Closure 
+
+---

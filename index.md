@@ -3,6 +3,7 @@
 
 [Home](index.md)
 
+
 ![Collage of infrastructure](/assets/images/infra-relearn-collage.png)
 
 ## Principal Investigators
@@ -23,7 +24,6 @@
 
 [TUM Georg Nemetschek Institute Artificial Intelligence for the Built World](https://www.mdsi.tum.de/en/gni/home/)
 
----
 
 ## Project summary
 
@@ -35,6 +35,5 @@ This project aims to make a significant step towards AI-supported maintenance pl
 
 ![image](/assets/images/infra-relearn-work-packages.webp)
 
----
 ## Current events
 - [Workshop](workshop.md) on "Deep reinforcement learning for infrastructure maintenance planning: Trends, opportunities and challenges"
