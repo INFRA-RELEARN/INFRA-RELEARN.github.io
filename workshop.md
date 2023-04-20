@@ -19,7 +19,7 @@ Online attendance via Zoom. The link will be sent to you via email.
 The in person event will be held at the [GNI at TUM Campus Garching](https://www.mdsi.tum.de/gni/getting-to-gni/).
 
 
-Please [confirm](mailto:daniel.hettegger@tum.de?subject=Workshop%20paticipation%20confirmation&body=Attendance%20online%2Fin%20person) your participation via email and state if you attending in person or online. 
+Please confirm your participation via [Eventbrite](https://www.eventbrite.de/e/workshop-deep-reinforcement-learning-for-infrastructure-maintenance-plannig-tickets-621786890327). 
 
 
 ## Agenda
