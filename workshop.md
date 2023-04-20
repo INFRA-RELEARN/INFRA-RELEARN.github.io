@@ -10,7 +10,7 @@
 tbd.
 ## Date and Location
 
-[12.05.2023, 10:00 - 17:00 CEST](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Workshop+Deep+reinforcement+learning+for+infrastructure+maintenance+planning%3A+Trends%2C+opportunities+and+challenges&iso=20230512T0800&p1=1440&ah=7&am=0)
+[12.05.2023, 10:00 - 17:00 CEST](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Workshop+Deep+reinforcement+learning+for+infrastructure+maintenance+planning%3A+Trends%2C+opportunities+and+challenges&iso=20230512T10&p1=168&ah=7)
 
 This workshop will be held in hybrid (online and in person).
 
