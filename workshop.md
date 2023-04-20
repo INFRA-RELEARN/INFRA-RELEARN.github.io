@@ -4,8 +4,9 @@
 [Home](index.md) > Workshop
 
 ## Agenda
+
 | Time | Event | Speaker |
-| ---- | ----- | ------- |
+| --- | --- | --- |
 | 10:00 | Welcome | Daniel Straub |
 | 10:05 - 10:30 | Presentation Kostas Papakonstantinou | Kostas Papakonstantinou |
 | 10:35 - 11:00 | Presentation Olga Fink | Olga Fink |
