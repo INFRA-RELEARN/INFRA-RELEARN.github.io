@@ -31,12 +31,12 @@ Please confirm your participation via [Eventbrite](https://www.eventbrite.de/e/w
 
 ## Agenda
 
-| Time |  |
+| Time          |  |
 | ------------- | --- |
-| 10:00 | **Welcome** |
-| 10:05 - 10:30 | **Presentation Kostas Papakonstantinou**</br> Multi-agent deep reinforcement learning for infrastructure management: Recent advances and future challenges| 
-| 10:35 - 11:00 | **Presentation Olga Fink**</br> Safe multi-agent deep reinforcement learning for joint bidding and maintenance scheduling of generation units | 
-| 11:05 - 11:30 | **Presentation Tobias Zeh**</br> AI-based asset management strategy - A practical approach |
+| 10:00         | **Welcome** |
+| 10:05 - 10:30 | **Presentation Kostas Papakonstantinou**<br /> Multi-agent deep reinforcement learning for infrastructure management: Recent advances and future challenges| 
+| 10:35 - 11:00 | **Presentation Olga Fink**<br /> Safe multi-agent deep reinforcement learning for joint bidding and maintenance scheduling of generation units | 
+| 11:05 - 11:30 | **Presentation Tobias Zeh**<br /> AI-based asset management strategy - A practical approach |
 | 11:30 - 12:00 | **Discussion on opportunities and challenges** |
 | 12:00 - 14:00 | **Lunch break** |
 | 14:00 - 16:00 | **PhD presentations incl. discussions** |
