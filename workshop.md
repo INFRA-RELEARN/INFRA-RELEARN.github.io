@@ -31,18 +31,18 @@ Please confirm your participation via [Eventbrite](https://www.eventbrite.de/e/w
 
 ## Agenda
 
-| Time          |  |
-| ---------------- | --- |
-| 10:00         | **Welcome** |
-| 10:05 - 10:30 | **Presentation Kostas Papakonstantinou**<br /> Multi-agent deep reinforcement learning for infrastructure management: Recent advances and future challenges| 
-| 10:35 - 11:00 | **Presentation Olga Fink**<br /> Safe multi-agent deep reinforcement learning for joint bidding and maintenance scheduling of generation units | 
-| 11:05 - 11:30 | **Presentation Tobias Zeh**<br /> AI-based asset management strategy - A practical approach |
-| 11:30 - 12:00 | **Discussion on opportunities and challenges** |
-| 12:00 - 14:00 | **Lunch break** |
-| 14:00 - 16:00 | **PhD presentations incl. discussions:** <br />   **Prateek Bhustali**: Multiagent decision-making for scalable inspection & maintenance planning of deteriorating systems. <br /> **Arcieri Giacomo**: POMDP inference and robust solution via deep reinforcement learning: An application to railway optimal maintenance <br /> **Daniel Hettegger**: Investigation of Inspection and Maintenance Optimization with Deep Reinforcement Learning in Absence of Belief States <br /> **Dongkyu Lee**: Operation and Maintenance Planning for Lifeline Networks Using Parallelized Multi-agent Deep Q-Network. <br /> **Mohammad Saif**: Multi-Agent Deep Reinforcement Learning (MARL) for optimal decision-making for transportation systems and Value of Information Implications for MARL. |
-| 16:00 - 16:15 | **Poll on the most interesting / relevant research question** |
-| 16:15 - 16:45 | **Discussion “What are the key research questions?”** |
-| 16:45 - 17:00 | **Closure** | 
+| Time              |     |
+| ----------------- | --- |
+| 10:00             | **Welcome** |
+| 10:05 - 10:30     | **Presentation Kostas Papakonstantinou**<br /> Multi-agent deep reinforcement learning for infrastructure management: Recent advances and future challenges| 
+| 10:35 - 11:00     | **Presentation Olga Fink**<br /> Safe multi-agent deep reinforcement learning for joint bidding and maintenance scheduling of generation units | 
+| 11:05 - 11:30     | **Presentation Tobias Zeh**<br /> AI-based asset management strategy - A practical approach |
+| 11:30 - 12:00     | **Discussion on opportunities and challenges** |
+| 12:00 - 14:00     | **Lunch break** |
+| 14:00 - 16:00     | **PhD presentations incl. discussions:** <br />   **Prateek Bhustali**: Multiagent decision-making for scalable inspection & maintenance planning of deteriorating systems. <br /> **Arcieri Giacomo**: POMDP inference and robust solution via deep reinforcement learning: An application to railway optimal maintenance <br /> **Daniel Hettegger**: Investigation of Inspection and Maintenance Optimization with Deep Reinforcement Learning in Absence of Belief States <br /> **Dongkyu Lee**: Operation and Maintenance Planning for Lifeline Networks Using Parallelized Multi-agent Deep Q-Network. <br /> **Mohammad Saif**: Multi-Agent Deep Reinforcement Learning (MARL) for optimal decision-making for transportation systems and Value of Information Implications for MARL. |
+| 16:00 - 16:15     | **Poll on the most interesting / relevant research question** |
+| 16:15 - 16:45     | **Discussion “What are the key research questions?”** |
+| 16:45 - 17:00     | **Closure** | 
 
 ## Speakers
 
