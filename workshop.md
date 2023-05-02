@@ -39,7 +39,7 @@ Please confirm your participation via [Eventbrite](https://www.eventbrite.de/e/w
 | 11:05 - 11:30 | **Presentation Tobias Zeh**<br /> AI-based asset management strategy - A practical approach |
 | 11:30 - 12:00 | **Discussion on opportunities and challenges** |
 | 12:00 - 14:00 | **Lunch break** |
-| 14:00 - 16:00 | **PhD presentations incl. discussions** |
+| 14:00 - 16:00 | **PhD presentations incl. discussions:** <br /> POMDP inference and robust solution via deep reinforcement learning: An application to railway optimal maintenance - Arcieri Giacomo <br /> Operation and Maintenance Planning for Lifeline Networks Using Parallelized Multi-agent Deep Q-Network. -  Dongkyu Lee <br /> Multiagent decision-making for scalable inspection & maintenance planning of deteriorating systems. - Prateek Bhustali <br /> Investigation of Inspection and Maintenance Optimization with Deep Reinforcement Learning in Absence of Belief States - Daniel Hettegger |
 | 16:00 - 16:15 | **Poll on the most interesting / relevant research question** |
 | 16:15 - 16:45 | **Discussion “What are the key research questions?”** |
 | 16:45 - 17:00 | **Closure** | 
