@@ -23,7 +23,7 @@ This workshop will be held in hybrid (online and in person).
 
 Online attendance via Zoom. The link will be sent to you via email.
 
-The in person event will be held at the [GNI at TUM Campus Garching](https://www.mdsi.tum.de/gni/getting-to-gni/).
+The in person event will be held at the [GNI at TUM Campus Garching](https://www.mdsi.tum.de/gni/getting-to-gni/). [[Directions]](#directions-for-in-person-attendance)
 
 
 Please confirm your participation via [Eventbrite](https://www.eventbrite.de/e/workshop-deep-reinforcement-learning-for-infrastructure-maintenance-plannig-tickets-621786890327). 
@@ -49,3 +49,28 @@ Please confirm your participation via [Eventbrite](https://www.eventbrite.de/e/w
 | Kostas Papakonstantinou |[ Penn State, Civil and Environmental Engineering Department](https://sites.psu.edu/kpapakon/)|
 | Olga Fink | [EPFL, Intelligent Maintenance and Operations Systems](https://people.epfl.ch/olga.fink?lang=en)|
 | Tobias Zeh | Netze BW GmbH|
+
+## Directions for in person attendance
+
+The TUM GNI is located at:
+
+Walther-von-Dyck-Straße 10 <br>
+(GALILEO Garching) <br>
+85748 Garching near Munich <br>
+
+### Arrival by public transport
+
+The Galileo building is located at the campus of the Technische Universität München in Garching.
+
+- Take the subway (line U6) to the subway station Garching Forschungszentrum (about 25 minutes from Munich city centre).
+- Exit the station using the northern most exit (at the front end of the train).
+- Turn right towards the Galileo building.
+- Enter the building using the door indicated in the Image below and take the elevator to the 4th Floor.
+- The entrance to the TUM GNI is on the left after exiting the elevator.
+
+![assets/images/workshop/galileo_entrance.webp](assets/images/workshop/galileo_entrance.webp)
+
+ 
+### Arrival by car
+
+You can see on [Google Maps](https://www.google.com/maps?rls=en&q=Walther-von-Dyck-Stra%C3%9Fe+10+(GALILEO+Garching)+85748+Garching+near+Munich) how to get to us by car. There is an underground car park in the GALILEO building or you can use the Park & Ride Garching Forschungszentrum.
