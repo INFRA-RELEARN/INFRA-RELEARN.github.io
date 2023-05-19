@@ -13,7 +13,7 @@ The first part of the workshop started out by talks from senior experts, who pro
 
 The participants discussed recent advances of DRL for infrastructure management and identified key challenges and promising future directions. These included **scaling-up** solutions to systems with thousands of components, the role of **model** **uncertainty** on DRL-based decisions and real-life implementation, different inference and computational techniques to propagate uncertainty and past history in large systems, policy **interpretability** implications, **operational** **safety** needs, and **safe-RL**. We also touched upon **human intervention, feedback, and collaboration** in the training and implementation phases, together with the practical realities of regulations and data quality issues. Additional topics were the potential promise and challenges of transfer learning, and algorithmic implementation issues, including the role of hyperparameters. Finally, it was agreed to jointly work towards common **benchmarks** that enable testing and comparing different algorithmic solutions.
 
-Everybody stressed the usefulness of this exchange and it was agreed to have similar meetings from time to time to discuss, exchange ideas, and experiences, and report progress. Anybody who wants to be informed about future meetings can contact daniel.hettegger@tum.de.
+Everybody stressed the usefulness of this exchange and it was agreed to have similar meetings from time to time to discuss, exchange ideas, and experiences, and report progress. Anybody who wants to be informed about future meetings can contact [daniel.hettegger@tum.de](mailto:daniel.hettegger@tum.de).
 
 ## Agenda
 
