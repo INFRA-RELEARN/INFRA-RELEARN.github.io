@@ -2,10 +2,6 @@
 ![Collage of infrastructure](/assets/images/infra-relearn-collage.png)
 # Workshop on Deep reinforcement learning for infrastructure maintenance planning: Trends, opportunities and challenges
 
-[Home](index.md) > Workshop
-
----
-
 Organized by [Daniel Straub](https://www.cee.ed.tum.de/era/team/daniel-straub/) and [Kostas Papakonstaninou](https://sites.psu.edu/kpapakon/)
 at the [TUM Georg Nemetschek Institute - Artificial Intelligence for the Built World](https://www.mdsi.tum.de/en/gni/home/)
 
